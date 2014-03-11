@@ -6,6 +6,7 @@
 - 李珠刚
 - 连凌淦
 - 毛飞霏
+
 ##Preparation
 * **Check out the update of pml's [website](http://ss.sysu.edu.cn/~pml/SE305/2014spring/)!!!**
 * Register a github account.
@@ -15,6 +16,7 @@
 
 ##What we got
 * Nothing...
+
 ##To do list
 * UML基础单项练习展示
 * 两本书的读后感展示
@@ -33,11 +35,10 @@
 - Task 1 程序的类图
 - 回答 Task 2 任务的问题（1－4）
 - 回答以下问题：
-    > 1）复习教材 Chapter 1.6 "What is the UML"，结合你在实践中的经验，用自己的语言说明UML在项目中的作用。
-    > 
-	>2）根据你的观察，领域模型和设计类图都是类图，总结它们之间的区别。（参考：Class Diagram ）
-	>
-	>3）面向对象的应用程序开发API，通常架构以框架（Framework）形式提供（如cocos2d游戏框架），请述说 Framework(Archecture) 与 Function Library （程序库）之间的区别。
+> 1）复习教材 Chapter 1.6 "What is the UML"，结合你在实践中的经验，用自己的语言说明UML在项目中的作用。
+>2）根据你的观察，领域模型和设计类图都是类图，总结它们之间的区别。（参考：Class Diagram ）
+>3）面向对象的应用程序开发API，通常架构以框架（Framework）形式提供（如cocos2d游戏框架），请述说 Framework(Archecture) 与 Function Library （程序库）之间的区别。
+
 ###提交源代码
 - Nothing...
 
