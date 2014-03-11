@@ -16,7 +16,12 @@
 * Working log. **Important!**注意在协同工作文件夹中有一个**表单文件**，注意更新自己的工作，尽量每天都有。“上课，忙了一天”“没做啥，出去完了”之类的都能写，这属于敏捷开发的一部分。
 
 ##What we got
-* Nothing...
+
+###Link
+- [Course Homepage](http://ss.sysu.edu.cn/~pml/SE305/2014spring/)
+- [Google Drive](https://drive.google.com/folderview?id=0B34ZdvcqlZwIUXZra014OG9ZM1U&usp=sharing)
+- [git-the simple guide](http://rogerdudler.github.io/git-guide/index.zh.html)
+- [图解git](http://marklodato.github.io/visual-git-guide/index-zh-cn.html)
 
 ##To do list
 * UML基础单项练习展示
