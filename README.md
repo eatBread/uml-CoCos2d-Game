@@ -13,6 +13,7 @@
 * Knowledge about [git](http://rogerdudler.github.io/git-guide/index.zh.html).  只需要弄清楚clone、pull、add、commit、push这几个命令即可。分支、工作流有兴趣可看。
 * [GoogleDrive](https://drive.google.com/folderview?id=0B34ZdvcqlZwIUXZra014OG9ZM1U&usp=sharing). 所有协同工作文档将会放置此处，目前只要进到这个链接即可编辑所有文件。**建议申请一个带真实姓名的google账号，以便知道是谁做出更改。**
 * Presentation Preparing.
+* Working log. **Important!**注意在协同工作文件夹中有一个**表单文件**，注意更新自己的工作，尽量每天都有。“上课，忙了一天”“没做啥，出去完了”之类的都能写，这属于敏捷开发的一部分。
 
 ##What we got
 * Nothing...
