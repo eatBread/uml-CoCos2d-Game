@@ -25,6 +25,7 @@
 * 校园应用大project
 
 ##cocos2d Game
+
 ###要求 [官方需求](http://ss.sysu.edu.cn/~pml/SE305/2014spring/hw_lab_game1.html)
     前两个task截止为下周五
 - Task1：参照课程第一章案例，画出该游戏的领域模型、交互图和设计类图。
@@ -47,6 +48,7 @@
 - Nothing...
 
 ##Campus App
+
 ###头脑风暴
 - 取快递
 - 求打包
@@ -59,7 +61,7 @@
 > （ classname=[ 1 | 2 | 3 | 4 | 5 ] and subdir=[hw? | Lab? ] ）
 
 
-###提交要求
+##提交要求
 1. 文件名要求： 999999-XINGMING-HW1-V0.rar 
     * 例如：你的姓名-谢思远 学号-20100402 完成的作业是HW1。 如果是团队作业，请按组长学号提交。
     * 首先：将word文件压缩，命名为：20100402-XIESIYUN-HW1-V0.rar
