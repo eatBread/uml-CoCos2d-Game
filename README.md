@@ -30,14 +30,18 @@
 - Task1：参照课程第一章案例，画出该游戏的领域模型、交互图和设计类图。
 - Task2：了解cocos2d系统技术架构。类比话剧演出，讲述游戏中对象与现实的关系。
 - Task2：准备你的第一个软件版本
+
 ###上交的文件
 - 团队成员工作总结。每个人的学号、姓名、个人贡献列表。
 - Task 1 程序的类图
 - 回答 Task 2 任务的问题（1－4）
 - 回答以下问题：
-> 1）复习教材 Chapter 1.6 "What is the UML"，结合你在实践中的经验，用自己的语言说明UML在项目中的作用。
->2）根据你的观察，领域模型和设计类图都是类图，总结它们之间的区别。（参考：Class Diagram ）
->3）面向对象的应用程序开发API，通常架构以框架（Framework）形式提供（如cocos2d游戏框架），请述说 Framework(Archecture) 与 Function Library （程序库）之间的区别。
+
+    > 复习教材 Chapter 1.6 "What is the UML"，结合你在实践中的经验，用自己的语言说明UML在项目中的作用。
+
+    > 根据你的观察，领域模型和设计类图都是类图，总结它们之间的区别。（参考：Class Diagram ）
+
+    > 面向对象的应用程序开发API，通常架构以框架（Framework）形式提供（如cocos2d游戏框架），请述说 Framework(Archecture) 与 Function Library （程序库）之间的区别。
 
 ###提交源代码
 - Nothing...
@@ -53,6 +57,7 @@
 > Site：ftp://my.ss.sysu.edu.cn/~pml/se305/2014spring/homework/classname/subdir 
 > 
 > （ classname=[ 1 | 2 | 3 | 4 | 5 ] and subdir=[hw? | Lab? ] ）
+
 ###提交要求
 1. 文件名要求： 999999-XINGMING-HW1-V0.rar 
     * 例如：你的姓名-谢思远 学号-20100402 完成的作业是HW1。 如果是团队作业，请按组长学号提交。
